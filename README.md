@@ -1,1 +1,0 @@
-# newStarTak.github.io
